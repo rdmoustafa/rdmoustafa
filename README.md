@@ -15,7 +15,7 @@
 - [Semisweet Bakery Website](https://semisweet.ae): A website for a local bakery with a menu showcasing their delicious treats 🍰
 
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
