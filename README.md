@@ -1,5 +1,5 @@
 <h1>Hi 👋🏻, I'm Reem</h1>
-👩🏻‍🎓 Studied Computer Science and Software Engineering at the University of Birmingham <br/>
+👩🏻‍🎓 University of Birmingham Computer Science and Software Engineering Alumni <br/>
 👩🏻‍💻 I'm passionate about building apps that can support people in solving problems <br/>
 🤝🏻 Enjoy collaborating with others and working on projects that make a positive impact <br/>
 
