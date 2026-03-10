@@ -1,13 +1,14 @@
 <h1>Hi 👋🏻, I'm Reem</h1>
-👩🏻‍🎓 University of Birmingham Computer Science and Software Engineering Alumni <br/>
-👩🏻‍💻 I'm passionate about building apps that can support people in solving problems <br/>
-🤝🏻 Enjoy collaborating with others and working on projects that make a positive impact <br/>
+🔐 Systems Engineer in cybersecurity, working on security operations and threat detection <br/>
+👩🏻‍🎓 Computer Science & Software Engineering graduate from the University of Birmingham <br/>
+👩🏻‍💻 I enjoy building tools, automating workflows, and developing solutions that solve real problems <br/>
+🤝🏻 Passionate about collaboration, learning new technologies, and creating projects that make a positive impact <br/>
 
-<h4>Currently, I'm focusing on </h4>
-
-- 🖥️ Data Analysis and Text Classification with **PyTorch, Python, Scikit-learn**
-- 🚀 Full-stack web development with **Java, React, MySQL**
-- 🎨 Building user-friendly interfaces and intuitive UX/UI designs
+<h4>Currently, I'm focusing on</h4>
+🔐 Security Operations, SIEM, and threat detection engineering <br/>
+🖥️ Data analysis and text classification with Python, PyTorch, Scikit-learn <br/>
+🚀 Full-stack development with Java, Python, React, MySQL <br/>
+⚙️ Building automation tools and security lab environments <br/>
 
 <h4>Some of my notable projects include </h4>
 
