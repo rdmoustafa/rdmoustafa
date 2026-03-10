@@ -13,7 +13,6 @@
 <h4>Some of my notable projects include </h4>
 
 - [Speech Act Classification](https://github.com/rdmoustafa/speech-act-classification): My final year project - a text classification project that reads a transcript and categorizes sentences into different speech act categories ✨
-- [Semisweet Bakery Website](https://semisweet.ae): A website for a local bakery with a menu showcasing their delicious treats 🍰
 
 
 ## 💻 Tech Stack
